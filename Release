@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 Origin: sanderkees's Repo
 Label: sanderkees
 Suite: Stable
@@ -5,4 +6,13 @@ Version: 1.0
 Codename: sanderkees
 Architecture: iphoneos-arm
 Components: main
+=======
+Origin: sanderkees's Repo
+Label: sanderkees
+Suite: Stable
+Version: 1.0
+Codename: sanderkees
+Architecture: iphoneos-arm
+Components: main
+>>>>>>> Stashed changes
 Description: Backup of akusio's repo
